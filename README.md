@@ -159,14 +159,6 @@ Each model has a `hyperparameters.yaml` file with configurable parameters:
 
 Training progress is saved in the log directory specified in the configuration. You can visualize the training using the saved graphs and checkpoints.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
